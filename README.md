@@ -1,25 +1,23 @@
 # FirstSpot - A Haven for Travelers
 
-### PROJECT DESCRIPTION AND OUTLINE
-
 ##	<b> Introduction <br></b>
-First spot is designed for tourists so they can now explore new destinations where a guide will always be there to help you explore new paths where you can create your paths as well. Planning a multi-city trip helps you relax and stirs in an extra element of excitement since you get to explore new destinations on the go.
+FirstSpot is designed to help tourists explore new destinations by providing a reliable guide to show them new paths, adventures and ammenities. FIrstSpot makes planning a multi-city trip much easier, so that you can relax and enjoy your trip to the fullest.
 
 ![FirstSpot Image](https://user-images.githubusercontent.com/69755312/194810054-c785c9b6-4dea-46b8-86e6-c19b090de964.png)
 
 ### About Introduction and Techniques
 
-- **Search with Filters:** Utilize search filters to refine results based on user ratings, alphabetical order, and budget preferences.
+- **Search with Filters:** Refine your search results with filters based on user ratings, alphabetical order, and budget preferences.
 
-- **Login/Sign up:** Clicking the 'Sign Up' button invokes a form with two registration options. Toggle between Tourist and Tourist Guide sign-up for respective user profiles.
+- **Login/Sign up:** Clicking the 'Sign Up' button will bring you to a form with two registration options. Select either "Tourist" or "Tourist Guide" to sign-up for the profile that is right for you.
 
-- **Feeling Lucky:** Engage the "Feeling Lucky" feature for a random location suggestion, sparking spontaneous and adventurous journeys.
+- **Feeling Lucky:** Try the "Feeling Lucky" feature for a random location suggestion. Ideal for those interested in sparking spontaneous and adventurous journeys.
 
-- **Explore:** Our unique 'Explore' feature allows visitors to create their own routes. Seek suggestions from verified guides, ensuring a safe and joyful journey.
+- **Explore:** Our unique 'Explore' feature allows visitors to create their own routes. Chat with verified guides, ensuring a safe and memorable journey.
 
 - **Predefined Routes:** Save time with predefined routes created by our guides. No need to spend hours planning your own route.
 
-- **Help from Tourist Guides:** Choose your dedicated tourist guide for personalized route recommendations. They are available in chat to address queries about paths or destinations.
+- **Help from Tourist Guides:** Choose your dedicated tourist guide for personalized route recommendations. Our guides are happy to answer queries about paths, destinations or anything in-between!
 
 ### Objective of the Work
 
